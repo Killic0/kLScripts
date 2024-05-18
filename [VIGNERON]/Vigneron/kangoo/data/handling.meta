@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CHandlingDataMgr>
+    <HandlingData>
+        <Item type="CHandlingData"> <!-- Crée Par McModding -->
+            <handlingName>kangoo</handlingName>
+            <fMass value="2000.0" />
+            <fInitialDragCoeff value="8.0" />
+            <fDownForceModifier value="0.0" />
+            <fPercentSubmerged value="85.0" />
+            <vecCentreOfMassOffset x="0.0" y="0.0" z="0.0" />
+            <vecInertiaMultiplier x="1.0" y="1.3999999761582" z="1.6000000238418" />
+            <fSeatOffsetDistX value="0.0" />
+            <fSeatOffsetDistY value="0.0" />
+            <fSeatOffsetDistZ value="0.050000000745058" />
+            <fDriveBiasFront value="0.40000000596046" />
+            <nInitialDriveGears value="6" />
+            <fInitialDriveForce value="0.4" />
+            <fDriveInertia value="1.0" />
+            <fClutchChangeRateScaleUpShift value="3.0" />
+            <fClutchChangeRateScaleDownShift value="3.0" />
+            <fInitialDriveMaxFlatVel value="200.0" />
+            <fBrakeForce value="4.0" />
+            <fBrakeBiasFront value="0.64999997615814" />
+            <fHandBrakeForce value="0.69999998807908" />
+            <fSteeringLock value="35.0" />
+            <fTractionCurveMax value="2.3499999046326" />
+            <fTractionCurveMin value="1.9500000476838" />
+            <fTractionCurveLateral value="22.5" />
+            <fTractionSpringDeltaMax value="0.15000000596046" />
+            <fLowSpeedTractionLossMult value="1.3999999761582" />
+            <fCamberStiffnesss value="0.0" />
+            <fTractionBiasFront value="0.48500001430512" />
+            <fTractionLossMult value="1.0" />
+            <fSuspensionForce value="2.7999999523162" />
+            <fSuspensionCompDamp value="1.2000000476838" />
+            <fSuspensionReboundDamp value="2.0999999046326" />
+            <fSuspensionUpperLimit value="0.15000000596046" />
+            <fSuspensionLowerLimit value="-0.14000000059604" />
+            <fSuspensionRaise value="0.0" />
+            <fSuspensionBiasFront value="0.5" />
+            <fAntiRollBarForce value="0.30000001192092" />
+            <fAntiRollBarBiasFront value="0.52999997138978" />
+            <fRollCentreHeightFront value="0.23999999463558" />
+            <fRollCentreHeightRear value="0.25" />
+            <fCollisionDamageMult value="0.69999998807908" />
+            <fWeaponDamageMult value="1.0" />
+            <fDeformationDamageMult value="0.69999998807908" />
+            <fEngineDamageMult value="1.5" />
+            <fPetrolTankVolume value="65.0" />
+            <fOilVolume value="5.0" />
+            <strModelFlags>35000</strModelFlags>
+            <strHandlingFlags>0</strHandlingFlags>
+            <strDamageFlags>0</strDamageFlags>
+            <AIHandling>AVERAGE</AIHandling>
+            <SubHandlingData>
+                <Item type="NULL" />
+                <Item type="NULL" />
+                <Item type="NULL" />
+            </SubHandlingData>
+        </Item>
+    </HandlingData>
+</CHandlingDataMgr>
